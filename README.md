@@ -1,6 +1,6 @@
 # iTunes_to_VLC
 
-#Problem
+##Problem
 I use iTunes to listen to my music because, I have an iphone. It makes it easier to have the same playlists, and music no matter the device. Unfortunately there is not a native iTunes app for linux, wine doesn't work with the windows iTunes app from my experience, and listening from the web player sounds absolutely terible. 
 
 #Goal
